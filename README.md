@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AxiomaticAdi
 - 🌱 I’m currently learning web development
-- 🏗️ I've built projects in C, Python, and Javascript
+- 🏗️ I've built projects in C, Python, and JavaScript / TypeScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomaticAdi&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomaticAdi&show_icons=true&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)

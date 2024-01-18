@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AxiomaticAdi
-- 💻 I’m a software developer
+- 💻 I love building software
 - 🏗️ I've built projects in C, Python, and JavaScript / TypeScript, React, and React Native
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomaticAdi&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)

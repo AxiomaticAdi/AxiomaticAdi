@@ -1,6 +1,6 @@
 Hi there! 👋
 
-My name is Adi, I'm full-stack developer dedicated to building robust and user-friendly web applications
+My name is Adi, I am a full-stack developer based in San Diego. I love building building robust, mobile-first, user-friendly web applications
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomaticAdi&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomaticAdi&show_icons=true&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)

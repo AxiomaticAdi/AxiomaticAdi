@@ -2,7 +2,7 @@ Hi there! 👋
 
 My name is Adi, I am a full-stack developer based in San Diego. I love building building robust, mobile-first, user-friendly web applications.
 
-I'm currently employed as a Software Engineer at Invisible Technologies.
+I'm currently employed as a Founding Engineer at [RallyBoard](https://rallyboard.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomaticAdi&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomaticAdi&show_icons=true&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
